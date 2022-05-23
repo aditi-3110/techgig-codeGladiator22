@@ -1,7 +1,7 @@
 # techgig-codeGladiator22
 Techgig codeGladiators 22
 
-##Problem 1
+###Problem 1
 
 The world is going to be attacked by the aliens. The space intelligence department has raised an alarm and the world armies are coming together to fight them. The planning and strategizing is being done to make the maximum impact on the alien ships. The deadly missiles are to be put into action. The missiles are targeted to destroy the alien ships in space and disable them to land on the Earth.
 
